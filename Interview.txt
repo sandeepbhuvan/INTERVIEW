@@ -1,0 +1,28 @@
+SQL Coding: https://www.geeksforgeeks.org/sql-query-interview-questions/
+MySQL: https://www.geeksforgeeks.org/mysql-interview-questions/?ref=lbp
+Java: https://www.geeksforgeeks.org/java-interview-questions/?ref=lbp
+	https://www.geeksforgeeks.org/commonly-asked-java-programming-interview-questions-set-1/
+	https://www.geeksforgeeks.org/commonly-asked-java-programming-interview-questions-set-2/
+
+
+Java Collections: https://www.geeksforgeeks.org/java-collections-interview-questions/?ref=lbp
+Java Multithreading: https://www.geeksforgeeks.org/java-multithreading-interview-questions-and-answers/?ref=lbp
+Python: https://www.geeksforgeeks.org/python-interview-questions/?ref=lbp
+OOPS: https://www.geeksforgeeks.org/oops-interview-questions/?ref=lbp
+Algorithms: https://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/?ref=lbp
+Google Cloud: https://www.geeksforgeeks.org/google-cloud-platform-tutorial/?ref=ghm
+Docker: https://www.geeksforgeeks.org/docker-tutorial/?ref=ghm
+Kubernetes: https://www.geeksforgeeks.org/kubernetes-tutorial/?ref=ghm
+ML: https://www.geeksforgeeks.org/machine-learning-interview-questions/?ref=ghm
+C++: https://www.geeksforgeeks.org/cpp-coding-interview-questions-and-answers/?ref=lbp
+
+
+Puzzles: https://www.geeksforgeeks.org/puzzles/?ref=dhm
+
+Coding questions: https://www.geeksforgeeks.org/longest-palindromic-substring/
+
+Where do you see yourself after 5 years? What are your future plans? What if you are not selected?
+
+Know About: its product/services, Year of establishment, current CEO, CTO and the required job details that include qualifications and certifications.
+
+Keep your questions ready.
